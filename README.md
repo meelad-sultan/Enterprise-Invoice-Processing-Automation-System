@@ -50,6 +50,8 @@ The system features a **modular architecture** allowing seamless scalability fro
 - 🧩 **Process Standardization:** Unified invoice handling across all departments  
 - 🔐 **Compliance Enhancement:** 100% audit trail for regulatory requirements  
 <img width="1024" height="1536" alt="Main Dashboard" src="https://github.com/user-attachments/assets/09634d77-50a5-4ca5-b0fa-b2f706b769a8" />
+![Main Dashboard](https://github.com/user-attachments/assets/33472b59-2d35-449c-b84d-9bc073f0eaed)
+
 ![1752915220017](https://github.com/user-attachments/assets/3f623354-6e6d-4c9f-9ee2-80b9b1ad0bc7)
 ![1752915216887](https://github.com/user-attachments/assets/6958bd75-ba21-4ac1-879f-38407b8f19c1)
 ![1752915214478](https://github.com/user-attachments/assets/3b279657-e98f-41ac-9735-c8a97a15d425)
